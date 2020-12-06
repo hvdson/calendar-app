@@ -14,7 +14,9 @@
     "postinstall": "yarn electron-rebuild"
   },
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "popper": "^1.0.1"
+  },
   "devDependencies": {
     "electron-react-devtools": "^0.5.3"
   }
